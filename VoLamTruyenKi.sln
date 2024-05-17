@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VoLamTruyenKi", "VoLamTruyenKi\VoLamTruyenKi.vcxproj", "{AE32DA7B-B049-4CAA-BCDE-CEFF6E1C08C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE32DA7B-B049-4CAA-BCDE-CEFF6E1C08C4}.Debug|x64.ActiveCfg = Debug|x64
+		{AE32DA7B-B049-4CAA-BCDE-CEFF6E1C08C4}.Debug|x64.Build.0 = Debug|x64
+		{AE32DA7B-B049-4CAA-BCDE-CEFF6E1C08C4}.Debug|x86.ActiveCfg = Debug|Win32
+		{AE32DA7B-B049-4CAA-BCDE-CEFF6E1C08C4}.Debug|x86.Build.0 = Debug|Win32
+		{AE32DA7B-B049-4CAA-BCDE-CEFF6E1C08C4}.Release|x64.ActiveCfg = Release|x64
+		{AE32DA7B-B049-4CAA-BCDE-CEFF6E1C08C4}.Release|x64.Build.0 = Release|x64
+		{AE32DA7B-B049-4CAA-BCDE-CEFF6E1C08C4}.Release|x86.ActiveCfg = Release|Win32
+		{AE32DA7B-B049-4CAA-BCDE-CEFF6E1C08C4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D7D1E94-91AF-427C-842E-EFA8F9F3B32C}
+	EndGlobalSection
+EndGlobal
